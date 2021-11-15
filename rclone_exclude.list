@@ -1,0 +1,21 @@
+- **cache/**
+- **/.git/**
+- .dartServer/**
+- **/__pycache__**/
+- **/node_modules/**
+- .gem/**
+- .gradle/**
+- .steam/**
+- **/bin/**
+- .local/share/Steam/**
+- .android/**
+- .vagrant.d/**
+- .mozilla/**
+- .bundle/**
+- **/venv/**
+- gibson_robotics/**
+- archive/** # Backed up in github repo alread
+- projects/** # Backed up in github repo alread
+- pretty_huge_doctorate/obsidian/** # Backed up in github repo already
+- zotero/storage/**
+- zotero/pipes/**
